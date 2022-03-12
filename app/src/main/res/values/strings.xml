@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">kotlin-travel-account-creation-android</string>
+
+    <!--   Welcome Page -->
+    <string name="welcome_header">Welcome to \nReady To Travel</string>
+    <string name="welcome_subtitle">Sign up with Facebook for the most \nfulfilling trip planning experience with us!</string>
+    <string name="login_fb">Log in with Facebook</string>
+    <string name="login_email">Log in with email address</string>
+    <string name="create_new_account">Create a new account</string>
+
+    <!--   Account Creation Page-->
+    <string name="acc_creation_header">Almost there!</string>
+    <string name="acc_creation_subtitle">Complete the form below to create \nyour Ready To Travel account.</string>
+    <string name="mandatory">* Mandatory</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name *</string>
+    <string name="email_address">Email Address *</string>
+    <string name="date_of_birth">Date of Birth *</string>
+    <string name="dob_sample">DD/MM/YYYY</string>
+    <string name="nationality">Nationality *</string>
+    <string name="country_of_residence">Country of Residence *</string>
+    <string name="mobile_no">Mobile no. (Optional)</string>
+    <string name="country_code_sample">+95</string>
+    <string name="phone_no_sample">XXXXXXXXXX</string>
+
+    <!--   Error-->
+    <string name="error_field_required">This field is required</string>
+    <string name="invalid_email">Invalid Email</string>
+</resources>

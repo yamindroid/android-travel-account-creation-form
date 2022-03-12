@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006bff</color>
+    <color name="colorPrimaryDark">#0042cb</color>
+    <color name="colorAccent">#006bff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="button_color">#2e79a0</color>
+    <color name="text_bg_color">#f6f6f6</color>
+    <color name="separator">#e5e6e9</color>
+    <color name="text_color">#333333</color>
+    <color name="text_hint_color">#999999</color>
+    #e5e6e9
+</resources>
